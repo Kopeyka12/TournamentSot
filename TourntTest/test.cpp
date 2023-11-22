@@ -20,7 +20,6 @@ TEST(TestSort, TestTournamentSort) {
 	assert(v==v1);
 	v.clear(); v1.clear();
 
-
 	//Создаем массив из 1-го элементов
 	int arr1[] = { -2 };
 	n = 1;
@@ -33,7 +32,6 @@ TEST(TestSort, TestTournamentSort) {
 
 	assert(v==v1);
 	v.clear(); v1.clear();
-
 
 	//Пустой массив
 	int* arr2 = nullptr;
