@@ -61,8 +61,3 @@ TEST(TestSort, TestTournamentSort) {
 	v.clear(); v1.clear();
 
 }
-
-TEST(TestCaseName, TestName) {
-  assert(1, 1);
-  EXPECT_TRUE(true);
-}
